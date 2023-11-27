@@ -1,5 +1,5 @@
 
-## DARK EWING MD BOT 💘🇱🇰- A JAVASCRIPT WHATSAPP USER BOT
+## DARK EWING BOT 💘🇱🇰- A JAVASCRIPT WHATSAPP USER BOT
 <br>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐇𝐈+𝐈𝐀𝐌+ᗪᗩᖇK╺+EᗯIᑎG+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+ᴍʀ+ᴅᴀʀᴋ.ᴇᴡɪɴɢ.ᴛᴇᴀᴍ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝐌𝐑.ᴄʏʙᴇʀ༆ᴅᴇxᴛᴇʀ;𝐌𝐑:+ᴄʏʙᴇʀ.ᴀᴍᴅᴀ࿐;💕ඉතිං+ඔයල🙃;😁හොදින්+ඉන්නවානේ🧚)](https://git.io/typing-svg)
@@ -7,7 +7,7 @@
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
     <img alt="secktor docs" height="300" src="https://telegra.ph/file/6b20dd230026b6cf894d2.jpg">
-    <h1 align="center">DARK-EWING-BOT</h1>
+    <h1 align="center">DARK-EWING</h1>
   </a>
 </p>  
 <p align="center">
@@ -22,7 +22,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg">
-    <img alt="DARK EWING MD" height="300" src="https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg">
+    <img alt="DARK EWING" height="300" src="https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg">
     </a>
 </p>  
 
