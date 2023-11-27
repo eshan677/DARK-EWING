@@ -66,7 +66,7 @@
 
 ## DEPLOY IN HEROKU
 
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/KING-AMDA-MD/DARK-EWING-MD)
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/darkewing/DARK-EWING)
 
  <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/ff9d0311e2d4f2baa37f8.jpg" width=80 height=80></a>   
 
