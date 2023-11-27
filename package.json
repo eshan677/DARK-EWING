@@ -1,5 +1,5 @@
 {
-  "name": "Dark-Ewing-Md",
+  "name": "Dark-Ewing",
   "version": "0.0.7",
   "description": "Multi device whatsapp bot by Dark ewing team.",
   "main": "lib/client.js",
