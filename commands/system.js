@@ -38,7 +38,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'IZUKU  Session',
+                        title: 'DARK-EWING  Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
@@ -255,7 +255,8 @@ cmd({
 ├ 🕊️ *DARK EWING MD BOT* ❤‍🩹
 └───────────────────────
 ┌───────────────────────
-├ ⚙️ *BOT  DEPLOY*➤*https://github.com/KING-AMDA-MD/DARK-EWING-MD*├───────────────────────
+├ ⚙️ *BOT  DEPLOY*➤*https://github.com/darkewing/DARK-EWING*
+├───────────────────────
 │ *✆SUPPORT GROUPE:-https://chat.whatsapp.com/E8SGBZBS54j5iFbUOIXwXE* 
 └──────────────────────
 *🗓️Type .menu for my command list.*
