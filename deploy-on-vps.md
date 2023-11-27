@@ -31,8 +31,8 @@
   5.  Clone Repo and install required packages
 
       ```
-      git clone https://github.com/KING-AMDA-MD/DARK-EWING-MD
-      cd DARK-EWING-MD
+      git clone https://github.com/darkewing/DARK-EWING
+      cd DARK-EWING
       yarn install --network-concurrency 1
       ```
 
