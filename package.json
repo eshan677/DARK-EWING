@@ -74,10 +74,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KING-AMDA-MD/DARK-EWING-MD.git"
+    "url": "git+https://github.com/darkewing/DARK-EWING.git"
   },
   "bugs": {
-    "url": "https://github.com/KING-AMDA-MD/DARK-EWING-MD/issues"
+    "url": "https://github.com/darkewing/DARK-EWING/issues"
   },
-  "homepage": "https://github.com/KING-AMDA-MD/DARK-EWING-MD#readme"
+  "homepage": "https://github.com/darkewing/DARK-EWING#readme"
 }
