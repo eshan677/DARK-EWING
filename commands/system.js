@@ -236,7 +236,7 @@ cmd({
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by EXCEL.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
-*_DARK EWINGS_* 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n*⚙️ OWNER ❶* 
+*_DARK EWINGS MD_* 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nHᴇʟʟᴏ.....👋\nI'ᴍ Aʟɪᴠᴇ Nᴏᴡ...🙋‍♀️💗\n\n⚠️ OWNER 🐼\n*⚙️ OWNER ❶* 
 
 ➥ *https://Wa.me//+94767533889🧸?text=𝐑𝐔𝐊𝐒𝐇𝐀𝐍_𝐌𝐃_➤🇱🇰*\n*⚙️ *OWNER ❷*
 
