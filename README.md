@@ -36,9 +36,9 @@
 <br>
   
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKING-AMDA-MD%2FDARK-EWING-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdarkewing%2FDARK-EWING&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
-![forks](https://img.shields.io/github/forks/KING-AMDA-MD/DARK-EWING-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/darkewing/DARK-EWING?label=Forks&style=social)
 
 ![stars](https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg)
 <br>
