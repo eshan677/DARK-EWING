@@ -103,6 +103,10 @@
     "description": "Weather it is on heroku or not",
      "value": "true",
      "required": false 
+  },
+  "AUTO_RECORD": {
+    "description": "Auto record for bot",
+     "required" :false
   }
 },
 "formation": {
