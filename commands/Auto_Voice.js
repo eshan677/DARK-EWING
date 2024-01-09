@@ -4,12 +4,12 @@ function _0x3dc6(_0x22607d,_0x34719e){const _0x11adee=_0x1ffd();return _0x3dc6=f
   
 if (global.autoRecord) {
       if (m.chat) {
-        A17.sendPresenceUpdate("recording", m.chat);
+        DARK-EWING.sendPresenceUpdate("recording", m.chat);
       }
     }
 
     if (global.autoTyping) {
       if (m.chat) {
-        A17.sendPresenceUpdate("composing", m.chat);
+        DARK-EWING.sendPresenceUpdate("composing", m.chat);
       }
     }
