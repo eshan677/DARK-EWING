@@ -75,7 +75,7 @@
 
 ## Special Thanks to
 * [`DEXTER_AMDA_HIRU NANGI`](tiktok.com/@_cyber_hr_king/)
-* <a href="https://www.youtube.com/@cyber_flazy"><img src="https://telegra.ph/file/6b20dd230026b6cf894d2.jpg" width=80 height=80></a> 
+* <a href="https://www.youtube.com/@cyber_flazy"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
 ---
 
 <br>
