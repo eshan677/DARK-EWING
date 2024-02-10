@@ -146,7 +146,7 @@ Secktor.cmd({
                     title: Config.ownername,
                     body: 'Touch here.',
                     renderLargerThumbnail: true,
-                    thumbnailUrl: ``,
+                    thumbnailUrl: `https://telegra.ph/file/a0a9059b766d72e632634.jpg`,
                     thumbnail: log0,
                     mediaType: 2,
                     mediaUrl: '',
