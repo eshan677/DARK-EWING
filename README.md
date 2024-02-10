@@ -11,10 +11,10 @@
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/E8SGBZBS54j5iFbUOIXwXE" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/E8SGBZBS54j5iFbUOIXwXE](https://wa.me/94767533889?text=.menu)" target="_blank">
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8](https://wa.me/94767533889?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -48,11 +48,11 @@
  **[`Visit this site to easily deploy bots and get deployment videos`](tiktok.com/@_cyber_hr_king)**
 
 
-**[CYBER-FLAZY OFFICIAL](https://www.youtube.com/@cyber_flazy)**
+**[CYBER-AMDA OFFICIAL](https://www.youtube.com/@cyber_amda)**
 <br>
 <br>
 
-**[🚀 Join Our WhatsApp Channel](https://chat.whatsapp.com/E8SGBZBS54j5iFbUOIXwXE)**
+**[🚀 Join Our WhatsApp group](https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8)**
 <br>
 <br>
 
@@ -79,8 +79,8 @@
 
 
 ## Special Thanks to
-* [`DEXTER_AMDA_HIRU NANGI`](tiktok.com/@_cyber_hr_king/)
-* <a href="https://www.youtube.com/@cyber_flazy"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
+* [`DEXTER_AMDA_`](tiktok.com/@_cyber_hr_king/)
+* <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
 ---
 
 <br>
