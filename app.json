@@ -61,6 +61,11 @@
     "description": "Disable bot in pm",
      "required" :false
     },
+	"AUTO_RECORDING": {
+    "description": "Auto recoding for bot.",
+     "value": "true"
+    },
+	
       "PREFIX": {
   "description": "Enter your desired prefix for bot.",
       "value": "."
