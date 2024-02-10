@@ -61,7 +61,7 @@
 
 ## QR SCAN
 
-[![QR SCAN](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ashendilshan463/DARK-EWING?v=1)
+[![QR SCAN](https://replit.com/@sinhala677/DARK-EWING?v=1)
 
 
 ## DEPLOY IN HEROKU
