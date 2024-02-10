@@ -6,7 +6,7 @@
 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/6b20dd230026b6cf894d2.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/8b610e9a781dc777c9fff.jpg">
     <h1 align="center">DARK-EWING</h1>
   </a>
 </p>  
