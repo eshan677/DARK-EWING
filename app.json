@@ -8,7 +8,7 @@
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "Dexter / Rukshan"
+      "value": "Cyber Dexter / Rukshan / Ravi"
   },
   "ALIVE_MESSAGE": {
     "description": "Alive message for bot",
@@ -32,7 +32,7 @@
 },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/cf19902f6b57a00fcd56b.jpg"
+     "value": "https://telegra.ph/file/539756a96d644fa0fa343.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -49,7 +49,7 @@
      "required" :false
     },
     "SUDO": {
-    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94767533889",
+    "description": "PUT OWNER NUMBER NOTE:remove the + and must be in international form eg:94785274495",
      "required"  :false
     },
       "READ_MESSAGE": {
@@ -72,7 +72,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94767533889"
+       "value": "94785274495"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@VajiraRathnayak/DARK-EWING-MD?v=1"
@@ -85,7 +85,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb://mongo:6fdb1BEHAGcEG3F5abf-CE4cd12AfHB1@monorail.proxy.rlwy.net:40418"
+    "value": "mongodb+srv://vajira:vajira@cluster0.hzwqrqq.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Put the theme name you want to use. Avilable themes are DARK-MD and many more..",
@@ -102,7 +102,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "Dexter;Rukshan",
+     "value": "CyberDexter;Rukshan;ravi",
      "required": false 
   },
   "heroku": {
