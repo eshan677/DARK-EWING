@@ -40,7 +40,6 @@
 
 ![forks](https://img.shields.io/github/forks/darkewing/DARK-EWING?label=Forks&style=social)
 
-![stars](https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg)
 <br>
 <br>
 
