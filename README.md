@@ -54,10 +54,11 @@
 **[🚀 Join Our WhatsApp group](https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8)**
 <br>
 <br>
+**`DEPLOYMENT METHODS`**
 
- **`DEPLOYMENT METHODS`**
-
-
+ <details close>
+<summary> DEPLOYMENT METHODS </summary>
+  
 ## QR SCAN
 
 <a href="https://replit.com/@CYBER-DEXTER-MD/DARK-EWING/"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
@@ -66,6 +67,9 @@
 ## DEPLOY IN HEROKU
 
  [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/darkewing/DARK-EWING)
+
+   </details>
+   
 
  <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/ff9d0311e2d4f2baa37f8.jpg" width=80 height=80></a>   
 
