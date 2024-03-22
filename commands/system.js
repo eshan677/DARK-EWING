@@ -255,7 +255,7 @@ _CYBER_MD_BOT_ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓  🚫⚠️✅\nH�
 ├ 🕊️CYBER-MD BOT ❤‍🩹
 └───────────────────────
 ┌───────────────────────
-├ ⚙️BOT-DEPLOY➤https://github.com/darkewing/CYBER-MD-BOT
+├ ⚙️BOT-DEPLOY➤https://github.com/darkewing/DARK-EWING
 ├───────────────────────
 │ ✆SUPPORT GROUPE:-https://chat.whatsapp.com/JXUE45NloA0DSUl549cmKL 
 └──────────────────────
@@ -268,7 +268,7 @@ _🛜𝚸𝚯𝐖𝚵𝚪𝚵𝐃-𝚩Y-CYBER-DEXTER-AND-KING-LOKU-RAVI
 `;
             let aliveMessage = {
                 image: {
-                    url: 'https://telegra.ph/file/7f8ac5dd73995644ff818.jpg',
+                    url: 'https://telegra.ph/file/61eb2a4ee01cdd170c7e0.jpg',
                 },
                 caption: alivtxt,
                 footer: tlang().footer,
