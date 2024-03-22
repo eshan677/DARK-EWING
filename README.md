@@ -6,7 +6,7 @@
 
  <p align="center">  
   <a href="https://youtu.be/It-Ak-aSx0c">
-    <img alt="secktor docs" height="300" src="https://telegra.ph/file/8b610e9a781dc777c9fff.jpg">
+    <img alt="secktor docs" height="300" src="https://telegra.ph/file/539756a96d644fa0fa343.jpg">
     <h1 align="center">DARK-EWING</h1>
   </a>
 </p>  
@@ -22,7 +22,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/9ea59c95fac1e6a63c930.jpg">
-    <img alt="DARK EWING" height="300" src="https://telegra.ph/file/b8582799208c45f1920c9.jpg">
+    <img alt="DARK EWING" height="300" src="https://telegra.ph/file/61eb2a4ee01cdd170c7e0.jpg">
     </a>
 </p>  
 
@@ -71,14 +71,14 @@
    </details>
    
 
- <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/ff9d0311e2d4f2baa37f8.jpg" width=80 height=80></a>   
+ <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/297c5ebf88e2793b0f256.jpg" width=80 height=80></a>   
 
 ## **`CYBER-DEXTER-AND-KING LOKU RAVI DARK-EWING-MD BOT OWNERS,`**
 
 
 ## Special Thanks to
 * [`CYBER DEXTER AND LOKU RAVI_`](tiktok.com/@_cyber_hr_king/)
-* <a href="https://youtube.com/@CYBERDEXTERTOOL?si=NsWb47_f3g5t7hoH"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
+* <a href="https://youtube.com/@CYBERDEXTERTOOL?si=NsWb47_f3g5t7hoH"><img src="https://telegra.ph/file/297c5ebf88e2793b0f256.jpg" width=80 height=80></a> 
 ---
 
 <br>
