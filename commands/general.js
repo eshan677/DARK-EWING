@@ -114,14 +114,14 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/excelottah6/DARK-EWING-MD')
+        let { data } = await axios.get('https://api.github.com/repos/excelottah6/CYBER-MD-BOT')
         let cap = `Hey ${citel.pushName}\n
 ╭┈─────────────────────    .· * • ˚
-│ *⭐ Total Stars*: ${data.stargazers_count} stars
-│ *🍴 Forks*: ${data.forks_count} forks
-│ *📡 Repo*: https://github.com/darkewing/DARK-EWING
-│ *🏘Group*: https://chat.whatsapp.com/JzQlteOHVzx9ELq5kPZzY6
-│ *🧑‍💻Deploy EWING MD*:https://github.com/excelottah6/DARK-EWING
+│Total Stars: ${data.stargazers_count} stars
+│🍴Forks: ${data.forks_count} forks
+│📡Repo: https://github.com/darkewing/CYBER-MD-BOT
+│🏘Group: https://chat.whatsapp.com/JzQlteOHVzx9ELq5kPZzY6
+│🧑‍💻Deploy CYBER MD*:https://github.com/excelottah6/DARK-EWING
 ╰──────────────────────✬      * ˚  ✶`
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -159,13 +159,13 @@ cmd({
         latensie = speed() - timestampe;
         let ter = `
 ㅤ ────────────────────────── .°୭̥ ❁ 	
-╰─➤｡･:˚:✧｡ *${tlang().title}* ｡･:˚:✧｡
-╰─➤  *🌟Description*: A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
-╰─➤  *⚡️Speed*: ${latensie.toFixed(4)} ms
-╰─➤  *⏱Uptime*: ${runtime(process.uptime())}
-╰─➤  *📡Version*: 0.0.8
-╰─➤  *👤Owner*:  ${Config.ownername}
-╰─➤  *Powered by ${tlang().title}*
+╰─➤｡･:˚:✧｡*${tlang().title}* ｡･:˚:✧｡
+╰─➤🌟Description*: A WhatsApp bot with rich features, build in NodeJs to make your WhatsApp enjoyable.
+╰─➤⚡️Speed*: ${latensie.toFixed(4)} ms
+╰─➤⏱Uptime*: ${runtime(process.uptime())}
+╰─➤📡Version*: 0.0.8
+╰─➤👤Owner*:  ${Config.ownername}
+╰─➤Powered by ${tlang().title}*
 °୭̥ ❁ ───────────────────────── .°୭̥ ❁ `;
         let buttonMessaged = {
             image: {
