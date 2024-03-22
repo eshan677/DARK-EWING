@@ -11,10 +11,10 @@
   </a>
 </p>  
 <p align="center">
-  <a aria-label="Join our chats" href="https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8" target="_blank">
+  <a aria-label="Join our chats" href="https://chat.whatsapp.com/JXUE45NloA0DSUl549cmKL" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8](https://wa.me/94767533889?text=.menu)" target="_blank">
+<a aria-label="Bot Whatsapp" href="[https://chat.whatsapp.com/JXUE45NloA0DSUl549cmKL](https://wa.me/94785274495?text=.menu)" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Bot%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -47,11 +47,11 @@
  **[`Visit this site to easily deploy bots and get deployment videos`](tiktok.com/@_cyber_hr_king)**
 
 
-**[CYBER-AMDA OFFICIAL](https://www.youtube.com/@cyber_amda)**
+**[CYBER-DEXTER OFFICIAL](https://youtube.com/@CYBERDEXTERTOOL?si=NsWb47_f3g5t7hoH)**
 <br>
 <br>
 
-**[🚀 Join Our WhatsApp group](https://chat.whatsapp.com/FCneKWThUwt0OtyJnup8d8)**
+**[🚀 Join Our WhatsApp group](https://chat.whatsapp.com/JXUE45NloA0DSUl549cmKL)**
 <br>
 <br>
 **`DEPLOYMENT METHODS`**
@@ -73,12 +73,12 @@
 
  <a href="tiktok.com/@_cyber_hr_king/"><img src="https://telegra.ph/file/ff9d0311e2d4f2baa37f8.jpg" width=80 height=80></a>   
 
-## **`CYBER-DEXTER-AND-CYBER AMDA-MD BOT OWNERS,`**
+## **`CYBER-DEXTER-AND-KING LOKU RAVI DARK-EWING-MD BOT OWNERS,`**
 
 
 ## Special Thanks to
-* [`DEXTER_AMDA_`](tiktok.com/@_cyber_hr_king/)
-* <a href="https://www.youtube.com/@cyber_amda"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
+* [`CYBER DEXTER AND LOKU RAVI_`](tiktok.com/@_cyber_hr_king/)
+* <a href="https://youtube.com/@CYBERDEXTERTOOL?si=NsWb47_f3g5t7hoH"><img src="https://telegra.ph/file/7f195320e3e886ca4ae27.jpg" width=80 height=80></a> 
 ---
 
 <br>
