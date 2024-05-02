@@ -2,7 +2,7 @@
   "name": "Dark-Ewing",
   "version": "0.0.7",
   "description": "Multi device whatsapp bot by Dark ewing team.",
-  "main": "lib/index.js",
+  "main": "lib/client.js",
   "type": "commonjs",
   "license": "GPL-3.0",
   "scripts": {
