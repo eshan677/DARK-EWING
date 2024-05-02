@@ -63,7 +63,7 @@
 
 <a href="https://replit.com/@sinhala677/CYBER-MD?v=1"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 </P>
-<a href="https://github.com/darkewing/DEXTER-QR"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://github.com/R"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 ## DEPLOY IN HEROKU
