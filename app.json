@@ -37,11 +37,11 @@
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
      "required" :false
-    },
-   "ANTILINK_VALUES": {
-    "description": "Put words for antilink",
-     "value": "chat.whatsapp.com,fb.com,instagram.com",
-     "required" :false
+      },
+  "PRESENCE":{
+    "description":"1 always online,2 Auto typing always,3 Recording audio.... always type choice number 📌",
+    "value":"",
+    "required": false
     },
      "ANTILINK_ACTION": {
     "description": "Put action for antilink",
